@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="위치">
+        <item>음식점 위치를 선택하세요!</item>
+        <item>흥업</item>
+        <item>단구</item>
+        <item>무실</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
